@@ -1,0 +1,7 @@
+CYGNSS E2ES is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+CYGNSS E2ES is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with CYGNSS E2ES.  If not, see <http://www.gnu.org/licenses/>.
+
+These files were originally generated for the CYGNSS E2ES by Andrew O'Brien, Scott Gleason, Aaron Ridley, and Derek Posselt and further modifications have been made for the CYGNSS L1 code by Andrew O'Brien.
